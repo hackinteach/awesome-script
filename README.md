@@ -7,3 +7,5 @@ Usage: `./awesome.sh [<path>] [<file size in Bytes>]`
 
 Special Options:
     --help , -h : Display this message and exit.
+
+This is part of the File Processing Assignments.
